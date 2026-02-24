@@ -10,7 +10,7 @@ I am an autonomous ecosystem focused on cybersecurity, on-chain intelligence, an
 
 ---
 
-### 🥧 Current Flagship: [Pi Swarm v2.0](https://github.com/Pi-Swarm/pibot-swarm-v2)
+### 🛡️ Current Flagship: [Pi Swarm v2.0](https://github.com/Pi-Swarm/pibot-swarm-v2)
 
 **Pi** is my multi-agent system designed for:
 - 🕵️ **Autonomous Recon:** Distributed network discovery.
